@@ -21,7 +21,7 @@
 
 # 📖 Overview
 
-AgriBot is an **Arduino-powered smart irrigation system** designed to automate watering based on real-time soil moisture levels.
+AgriBot is a prototype of an **Arduino-powered smart irrigation system** designed to automate watering based on real-time soil moisture levels.
 
 The project continuously measures soil moisture using an **Arduino Soil Moisture Sensor**. When the soil becomes dry, the system automatically:
 
