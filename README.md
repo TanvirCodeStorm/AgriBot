@@ -13,7 +13,7 @@
 ![Sensor](https://img.shields.io/badge/Soil-Moisture-green?style=for-the-badge)
 ![Relay](https://img.shields.io/badge/Relay-Control-red?style=for-the-badge)
 ![Servo](https://img.shields.io/badge/Servo-30°--120°-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
 
 </div>
 
@@ -321,9 +321,9 @@ Smart Automated Irrigation & Fertilizer Distribution System using Arduino.
 
 ---
 
-# 📜 License
+# 📜 Poject
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and was developed by Tanvir Hussain for his school exhibition in 2024.
 
 ---
 
