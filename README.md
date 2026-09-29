@@ -321,7 +321,7 @@ Smart Automated Irrigation & Fertilizer Distribution System using Arduino.
 
 ---
 
-# 📜 Poject
+# 📜 Project
 
 This project is open-source and was developed by Tanvir Hussain for his school exhibition in 2024.
 
